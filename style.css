@@ -1,0 +1,25 @@
+#bloc_page{
+	display: flex;
+	flex-direction: row-reverse;
+	justify-content: center;
+}
+#membre{
+	position: fixed;
+	left : 5px;
+	top : -10px;
+}
+
+h1{
+	text-align: center;
+	background-color: rgba(100,15,200,0.9);
+	
+}
+#form{
+	background-color: gray;
+	border: 1px blue solid;
+	padding: 0 15px 0 15px;
+}
+#erreur{
+	font-style: bold;
+	color: red;
+}
